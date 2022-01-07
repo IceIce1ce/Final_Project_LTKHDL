@@ -1,4 +1,4 @@
-MSSubClass: Identifies the type of dwelling involved in the sale.	
+MSSubClass: Identifies the type of dwelling involved in the sale. (loai nha)	
 
         20	1-STORY 1946 & NEWER ALL STYLES
         30	1-STORY 1945 & OLDER
@@ -17,7 +17,7 @@ MSSubClass: Identifies the type of dwelling involved in the sale.
        180	PUD - MULTILEVEL - INCL SPLIT LEV/FOYER
        190	2 FAMILY CONVERSION - ALL STYLES AND AGES
 
-MSZoning: Identifies the general zoning classification of the sale.
+MSZoning: Identifies the general zoning classification of the sale. (muc dich su dung)
 		
        A	Agriculture
        C	Commercial
@@ -28,43 +28,43 @@ MSZoning: Identifies the general zoning classification of the sale.
        RP	Residential Low Density Park 
        RM	Residential Medium Density
 	
-LotFrontage: Linear feet of street connected to property
+LotFrontage: Linear feet of street connected to property (khoang cach tu nha toi duong)
 
-LotArea: Lot size in square feet
+LotArea: Lot size in square feet (kich thuoc nha)
 
-Street: Type of road access to property
+Street: Type of road access to property (loai duong)
 
        Grvl	Gravel	
        Pave	Paved
        	
-Alley: Type of alley access to property
+Alley: Type of alley access to property (loai hem)
 
        Grvl	Gravel
        Pave	Paved
        NA 	No alley access
 		
-LotShape: General shape of property
+LotShape: General shape of property (hinh dang lo dat)
 
        Reg	Regular	
        IR1	Slightly irregular
        IR2	Moderately Irregular
        IR3	Irregular
        
-LandContour: Flatness of the property
+LandContour: Flatness of the property (do phang cua dat)
 
        Lvl	Near Flat/Level	
        Bnk	Banked - Quick and significant rise from street grade to building
        HLS	Hillside - Significant slope from side to side
        Low	Depression
 		
-Utilities: Type of utilities available
+Utilities: Type of utilities available (tien ich co san)
 		
        AllPub	All public Utilities (E,G,W,& S)	
        NoSewr	Electricity, Gas, and Water (Septic Tank)
        NoSeWa	Electricity and Gas Only
        ELO	Electricity only	
 	
-LotConfig: Lot configuration
+LotConfig: Lot configuration (cau hinh lo)
 
        Inside	Inside lot
        Corner	Corner lot
@@ -72,13 +72,13 @@ LotConfig: Lot configuration
        FR2	Frontage on 2 sides of property
        FR3	Frontage on 3 sides of property
 	
-LandSlope: Slope of property
+LandSlope: Slope of property (do doc nha)
 		
        Gtl	Gentle slope
        Mod	Moderate Slope	
        Sev	Severe Slope
 	
-Neighborhood: Physical locations within Ames city limits
+Neighborhood: Physical locations within Ames city limits (vi tri nha)
 
        Blmngtn	Bloomington Heights
        Blueste	Bluestem
@@ -188,7 +188,7 @@ RoofStyle: Type of roof
        Mansard	Mansard
        Shed	Shed
 		
-RoofMatl: Roof material
+RoofMatl: Roof material (loai mai nha)
 
        ClyTile	Clay or Tile
        CompShg	Standard (Composite) Shingle
@@ -199,7 +199,7 @@ RoofMatl: Roof material
        WdShake	Wood Shakes
        WdShngl	Wood Shingles
 		
-Exterior1st: Exterior covering on house
+Exterior1st: Exterior covering on house (ngoai that 1)
 
        AsbShng	Asbestos Shingles
        AsphShn	Asphalt Shingles
@@ -219,7 +219,7 @@ Exterior1st: Exterior covering on house
        Wd Sdng	Wood Siding
        WdShing	Wood Shingles
 	
-Exterior2nd: Exterior covering on house (if more than one material)
+Exterior2nd: Exterior covering on house (if more than one material) ( ngoai that 2)
 
        AsbShng	Asbestos Shingles
        AsphShn	Asphalt Shingles
