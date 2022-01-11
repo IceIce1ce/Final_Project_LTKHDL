@@ -11,7 +11,7 @@ Project is created with:
 * xgboost library version: 1.5.1
 	
 ## Setup
-Activate the **min_ds-env** environment before launching to Jupyter Notebook. Install the require before runing the **House_Prices.ipynb**
+Activate the **min_ds-env** environment before launching to Jupyter Notebook. Install the requirements before runing the **House_Prices.ipynb**
 
 ```
 $ pip install mlxtend==0.19.0
