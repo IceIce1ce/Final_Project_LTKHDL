@@ -4,7 +4,7 @@ In this project, we conduct two parts of data analysis, including descriptive an
 Our main works are conducted on **House_Prices.ipynb**, detail about the dataset are shown in **data_description.txt**. On the descriptive parts, we utilize the **train.csv** to analyze the house sold price and others. Next, we would also predict the house price from the abovementioned features on **test.csv**, then save the result into **submission.csv**.
 	
 ## Project Planning
-You could access our project planing by click to the [Project_Planing.html](https://github.com/IceIce1ce/Final_Project_LTKHDL/blob/main/Project_Planning.html).
+You could access our project planing by click to the [Project_Planing.html](https://htmlpreview.github.io/?https://github.com/IceIce1ce/Final_Project_LTKHDL/blob/main/Project_Planning.html).
 
 ## Environment
 Project is created with:
