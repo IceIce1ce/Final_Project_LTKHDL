@@ -17,9 +17,9 @@ Project is created with:
 Activate the **min_ds-env** environment before launching to Jupyter Notebook. Install the requirements before runing the **House_Prices.ipynb**
 
 ```
-$ pip install mlxtend==0.19.0
-$ pip install lightgbm==3.3.1
-$ pip install xgboost==1.5.1
+pip install mlxtend==0.19.0
+pip install lightgbm==3.3.1
+pip install xgboost==1.5.1
 ```
 ## Descriptive Analysis
 In this section, we would  analyze our observations to answer some meaningful questions belows:
