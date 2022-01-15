@@ -4,7 +4,7 @@ In this project, we conduct two parts of data analysis, including descriptive an
 Our main works are conducted on **House_Prices.ipynb**, detail about the dataset are shown in **data_description.txt**. On the descriptive parts, we utilize the **train.csv** to analyze the house sold price and others. Next, we would also predict the house price from the abovementioned features on **test.csv**, then save the result into **submission.csv**.
 	
 ## Project Planning
-You could access our project planing by click to the [Project_Planing.html](https://htmlpreview.github.io/?https://github.com/IceIce1ce/Final_Project_LTKHDL/blob/main/Project_Planning.html).
+You could access our project planing by click to the [Project_Planing](https://htmlpreview.github.io/?https://github.com/IceIce1ce/Final_Project_LTKHDL/blob/main/Project_Planning.html).
 
 ## Environment
 Project is created with:
@@ -36,7 +36,7 @@ We conduct house price prediction on **test.csv** and submit the result to [Hous
 **Rank**:        125
 
 ## References
-[1] Dean De Cock. (2016&asp; 08). House Prices - Advanced Regression Techniques. Kaggle. Retrieved January 01, 2022 from https://www.kaggle.com/c/house-prices-advanced-regression-techniques.
+[1] Dean De Cock. (August, 2016). House Prices - Advanced Regression Techniques. Kaggle. Retrieved January 01, 2022 from https://www.kaggle.com/c/house-prices-advanced-regression-techniques.
 
 [2] ProgramerSought team. Python machine learning combat: master these four feature selection methods to improve model prediction performance. ProgramerSought. Retrieved January 05, 2022 from https://programmersought.com/article/16587300186/
 
